@@ -1,0 +1,3 @@
+https://wokwi.com/projects/481212643497254913
+
+· Pegar este enlace en el buscador (simulador del funcionamiento básico, el micrófono se sustituye por un potenciómetro y el motor de vibración por un led normal)
